@@ -1,0 +1,12 @@
+[submodule "barbershop-api"]
+	path = barbershop-api
+	url = https://github.com/yogadwipayana/barbershop-api.git
+[submodule "barbershop-admin"]
+	path = barbershop-admin
+	url = https://github.com/yogadwipayana/barbershop-admin.git
+[submodule "barbershop-user"]
+	path = barbershop-user
+	url = https://github.com/yogadwipayana/barbershop-user.git
+[submodule "barbershop-app"]
+	path = barbershop-app
+	url = https://github.com/yogadwipayana/barbershop-app.git
